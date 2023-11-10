@@ -1,0 +1,1 @@
+# example-of-a-base-class-in-spring-boot
